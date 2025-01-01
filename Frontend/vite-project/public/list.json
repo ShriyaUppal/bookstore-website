@@ -1,0 +1,138 @@
+[
+  {
+    "Id": "1",
+    "Name": "Story Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "2",
+    "Name": "Drama Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "3",
+    "Name": "Sports Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "20",
+    "Category": "Sports",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "4",
+    "Name": "Fiction Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "900",
+    "Category": "Fiction",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "5",
+    "Name": "Health Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "6",
+    "Name": "Programming Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "7",
+    "Name": "Economic Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "100",
+    "Category": "Study",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "8",
+    "Name": "Medicine Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "400",
+    "Category": "Study",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "9",
+    "Name": "Drama Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "10",
+    "Name": "Story Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "11",
+    "Name": "Science Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "505",
+    "Category": "Study",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "12",
+    "Name": "History Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "500",
+    "Category": "Study",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "13",
+    "Name": "Reality Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "14",
+    "Name": "Actig Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "15",
+    "Name": "Movie Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "16",
+    "Name": "Script Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "40",
+    "Category": "Study",
+    "image": "/Cards.png"
+  },
+  {
+    "Id": "17",
+    "Name": "Food Book",
+    "Title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit",
+    "Price": "0",
+    "Category": "Free",
+    "image": "/Cards.png"
+  }
+]
