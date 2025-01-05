@@ -29,7 +29,7 @@ const Banner = () => {
             </label>
           </div>
           <button className="btn btn-active mt-6 btn-secondary">
-            Secondary
+            Get Started.
           </button>
         </div>
         <div className="w-full md:w-1/2 order-1">
